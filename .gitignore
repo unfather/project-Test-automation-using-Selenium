@@ -1,0 +1,14 @@
+### vscode ###
+.vscode/*
+.idea/
+*.sw*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.pytest_cache
+__pycache__
+env/
+logs
+*.log
